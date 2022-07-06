@@ -6,15 +6,3 @@ Home-page: https://github.com/sreejithtsnair/MyInsuranceAppScripts-CaseStudy.git
 Author: Rincy_Unax_Sree
 Author-email: team1@example.com
 License: MIT
-
-myinsurancescripts
-
-This is a minimal python package, for use alongside the lesson: https://github.com/sreejithtsnair/MyInsuranceAppScripts-CaseStudy.git
-
-Contributing:
-
-Please do! Guidelines:
-
- - This lesson is for beginners. Yes there are plenty of super fancy things we don't cover here; someday, we'll make a different, super fancy lesson to teach those things.
- - Max 100 lines per PR please.
- - Open an issue or empty PR first to talk about controversial changes.
