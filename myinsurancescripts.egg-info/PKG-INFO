@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: myinsurancescripts
+Version: 0.2
+Summary: An example python package
+Home-page: https://github.com/sreejithtsnair/MyInsuranceAppScripts-CaseStudy.git
+Author: Rincy_Unax_Sree
+Author-email: team1@example.com
+License: MIT
+
 myinsurancescripts
 
 This is a minimal python package, for use alongside the lesson: https://github.com/sreejithtsnair/MyInsuranceAppScripts-CaseStudy.git
