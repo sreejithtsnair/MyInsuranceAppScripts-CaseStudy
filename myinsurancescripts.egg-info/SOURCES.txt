@@ -1,7 +1,0 @@
-MANIFEST.in
-setup.py
-myinsurancescripts.egg-info/PKG-INFO
-myinsurancescripts.egg-info/SOURCES.txt
-myinsurancescripts.egg-info/dependency_links.txt
-myinsurancescripts.egg-info/requires.txt
-myinsurancescripts.egg-info/top_level.txt
