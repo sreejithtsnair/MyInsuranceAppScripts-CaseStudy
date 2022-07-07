@@ -1,6 +1,6 @@
-myinsurancescripts
+python-package-example
 
-This is a minimal python package, for use alongside the lesson: https://github.com/sreejithtsnair/MyInsuranceAppScripts-CaseStudy.git
+This is a minimal python package, for use alongside the lesson: https://github.com/BillMills/pythonPackageLesson
 
 Contributing:
 
