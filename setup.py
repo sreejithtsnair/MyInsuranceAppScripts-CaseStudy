@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='myinsuranceappscripts',
-    version='0.3',
+    version='0.11',
     packages=find_packages(exclude=['tests*']),
     license='MIT',
     description='An example python package',
