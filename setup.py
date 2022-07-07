@@ -6,7 +6,7 @@ setup(
     version='0.4',
     packages=find_packages(exclude=['tests*']),
     license='MIT',
-    description='An example python package',
+    description='An example python package - updated',
     install_requires=['numpy'],
     url='https://github.com/sreejithtsnair/MyInsuranceAppScripts-CaseStudy.git',
     author='Rincy_Unax_Sree',
